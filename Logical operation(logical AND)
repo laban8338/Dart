@@ -1,0 +1,8 @@
+bool a = true;
+bool b = false;
+
+if (a && b) {
+  print('Both a and b are true.');
+} else {
+  print('At least one of a or b is false.');
+}
